@@ -1,5 +1,5 @@
 # Sorting-using-cpp
-Different sorting algorithms implemented generically for long, float and string types.
+Different sorting algorithms implemented generically for long, float and string types with their time complexities.
 
 ## IDE used:
 - Visual Studio

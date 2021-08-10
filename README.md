@@ -1,4 +1,4 @@
-# Sorting-using-cpp
+# Sorting-Algorithm
 Different sorting algorithms implemented generically for long, float and string types with their time complexities.
 
 ## IDE used:

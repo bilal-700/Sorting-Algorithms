@@ -1,6 +1,9 @@
 # Sorting-using-cpp
 Different sorting algorithms implemented generically for long, float and string types.
 
+## IDE used:
+- Visual Studio
+
 ## Description:
 The details are as follows:
 -	User can choose which type of data he wants to sort. The data type choices will be:
